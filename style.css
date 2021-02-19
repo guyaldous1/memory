@@ -14,6 +14,7 @@ body{
 .memory{
     height: 800px;
     max-height: 88vh;
+    margin: 0 0 30px;
     width: 100%;
     display: grid;
     grid-gap: 30px;
@@ -24,7 +25,6 @@ body{
     justify-items: center;
     align-items: center;
     align-content: center;
-    overflow: hidden;
 }
 
 .card{
